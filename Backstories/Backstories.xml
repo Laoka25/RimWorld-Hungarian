@@ -332,23 +332,23 @@ Szabadidejében leginkább művészeti hajlamait élte ki, de mivel beosztottjai
 	<Recruiter51>
 		<title>Toborzó</title>
 		<titleShort>Toborzó</titleShort>
-		<desc>NAME was part of an revered order of martial artists, infamous both for their skill in combat and for their practice of refusing to treat their wounded.
+		<desc>NAME része volt egy harcművészek tiszteletreméltó rendjének, akik hírhedtek voltak mind harci ügyességükért, mind arról, hogy megtagadták a kezelést a sebesültjeiktől.
 
-HECAP travelled HIS homeworld, judging the young people HE met to determine if they might be suitable for training.</desc>
+HECAP Utazott a világában, és megítélte a fiatalokról akikkel találkozott, hogy alkalmasak e a kiképzésre.</desc>
 	</Recruiter51>
 	<PsychiatricPatient28>
 		<title>Elmebeteg</title>
 		<titleShort>Elmebeteg</titleShort>
-		<desc>NAME spent most of HIS adult life in an insane asylum. HIS industrial homeworld had a poor understanding of mental illness, and HE was treated more like an animal than a person.
+		<desc>NAME felnőtt korának nagy részét elmegyógyintézetben töltötte. Az ő gyári világának rossz felfogása volt a mentális betegségekről, és inkább kezelték úgy, mint egy állatot, mint egy embert.
 
-Though HE eventually recovered and was released, HIS experience dampened many of HIS basic life skills.</desc>
+Bár végül felépült és megszabadult, a tapasztalatai lerontják sok képességét.</desc>
 	</PsychiatricPatient28>
 	<Drifter25>
 		<title>Csavargó</title>
 		<titleShort>Csavargó</titleShort>
-		<desc>NAME never figured out what to do with HIS life. HECAP travelled often, taking up casual work wherever HE found it.
+		<desc>NAME soha nem tudta, mit kezdjen az életével. HECAP gyakran utazott, alkalmi munkákat vállalt ott ahol talált.
 
-HECAP also occasionally worked on a novel that HE knew would be a bestseller - just as soon as HE could find a publisher who was interested.</desc>
+HECAP Alkalmanként olyan regényeken is dolgozott, amelyekről tudta, hogy bestseller lehet - Amint csak talál egy érdeklődő kiadót.</desc>
 	</Drifter25>
 	<VRDesigner15>
 		<title>Játékfejlesztő</title>
